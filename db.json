@@ -1,0 +1,67 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "firstname": "Anjali",
+      "lastname": "Kumari",
+      "email": "anjali639kuamri@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "fisrtname": "Sweety",
+      "lastname": "Singh",
+      "email": "sweety639singh@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "firstname": "Anu",
+      "lastname": "Singh",
+      "email": "anu639singh@gmail.com",
+      "password": "12345"
+    },
+    {
+      "firstname": "Anu",
+      "lastname": "terw",
+      "email": "anjali@gmail.com",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "firstname": "Neha",
+      "lastname": "hjdgsfj",
+      "email": "afgasf@gmail.com",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    }
+  ]
+}
